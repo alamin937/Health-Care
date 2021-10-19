@@ -1,0 +1,21 @@
+.navpic{
+    background-image: url('https://image.shutterstock.com/image-vector/healthcare-medical-bottles-set-medicine-260nw-1212203548.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+}
+.navpic h1{
+    font-size: 80px;
+    margin-top: 30px;
+    display: inline-block;
+    color: rgb(85, 61, 61);
+    letter-spacing: 20px;
+    font-weight: 700;
+}
+.navpic h2{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+}

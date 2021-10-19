@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Vicodin (hydrocodone/acetaminophen)",
+      "price": 7,
+      "description": "Vicodin is a popular drug for treating acute or chronic moderate to moderately severe pain",
+      "img": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Albuterol (Accuneb, Ventolin, Proair)",
+      "price": 10,
+      "description": "Albuterol sulphate dilates the airways of the lung and is used for treating asthma and other conditions of the lung",
+      "img": "https://images.unsplash.com/photo-1577401132921-cb39bb0adcff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 3,
+      "name": " Lisinopril (Generic for Prinivil)",
+      "price": 5,
+      "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used for treating high blood pressure.",
+      "img": "https://images.unsplash.com/photo-1585435557343-3b092031a831?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Levothyroxine (generic for Synthroid)",
+      "price": 12,
+      "description": "Levothyroxine is a man-made version of thyroid hormone. It is used for treating hypothyroidism.",
+      "img": "https://images.unsplash.com/photo-1573883430697-4c3479aae6b9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 5,
+      "name": " Gabapentin (Neurontin)",
+      "price": 15,
+      "description": "Gabapentin is an anti-seizure drug that is used for preventing seizures and for treating post-herpetic.",
+      "img": "https://images.unsplash.com/photo-1607874963930-2edecc67a25a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=852&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Metformin (generic for Glucophage)",
+      "price": 16,
+      "description": "Metformin is used alone or in combination with other drugs for treating type 2 diabetes in adults.",
+      "img": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Lipitor (atorvastatin)",
+      "price": 17,
+      "description": "Lipitor is a \"statin\" (HMG-CoA reductase inhibitors) approved for treating high cholesterol. It also prevents chest pain,",
+      "img": "https://images.unsplash.com/photo-1567427362138-e33c5022aafa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Amlodipine (generic for Norvasc)",
+      "price": 18,
+      "description": "Amlodipine is a calcium channel blocker used for treating high blood pressure and for treatment and prevention of chest pain.",
+      "img": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 9,
+      "name": " Omeprazole (Prilosec)",
+      "price": 19,
+      "description": "Omeprazole is in a class of drugs called proton pump inhibitors (PPI) that block the production of acid by the stomach.",
+      "img": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+    }
+  ]

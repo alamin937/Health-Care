@@ -1,0 +1,42 @@
+.advanged{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.plan{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.plan h1{
+    text-align: center;
+    color: darkslategray;
+
+}
+.advanged p{
+    text-align: justify;
+    font-size: 17px;
+    width: 70%;
+    margin: 0 auto;
+}
+.advanged img{
+    width: 400px;
+}
+
+@media only screen and (max-width: 688px) {
+    .advanged{
+        grid-template-columns: repeat(1, 1fr);
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+    .advanged{
+        grid-template-columns: repeat(1, 1fr);
+        flex-direction: column;
+    }
+}
