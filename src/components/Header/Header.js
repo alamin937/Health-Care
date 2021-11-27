@@ -14,7 +14,7 @@ const Header = () => {
     <Navbar.Brand href="#home">Medi Care</Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
-    <Nav className="nav">
+    <Nav className="nav ms-auto">
       <NavLink to='/home'>Home</NavLink>
       <NavLink to='/about'>About Us</NavLink>
       <NavLink to='/contact'>Contact Us</NavLink>
