@@ -9,9 +9,11 @@ const Header = () => {
   const {user, logOut} = UseAuth();
     return (
         <>
-  <Navbar sticky="top" bg="dark" variant="dark" collapseOnSelect expand="lg">
+  <Navbar collapseOnSelect expand="lg" sticky="top" bg="dark" variant="dark" >
     <Container>
     <Navbar.Brand href="#home">Medi Care</Navbar.Brand>
+    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+    <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="nav">
       <NavLink to='/home'>Home</NavLink>
       <NavLink to='/about'>About Us</NavLink>
@@ -20,6 +22,7 @@ const Header = () => {
       {user.email ? <button onClick={logOut} className='border-0 bg-danger px-3 py-1 text-white ms-3 rounded'>Log Out</button>:
       <NavLink to='/login'>Log In</NavLink>}
     </Nav>
+    </Navbar.Collapse>
     </Container>
   </Navbar>
 </>
